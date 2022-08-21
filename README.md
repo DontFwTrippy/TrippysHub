@@ -13,8 +13,17 @@ Will Be Published?: No
 TrippysExecuter V2
 6:07PM EST 8/20/22
 
-Bugs:
+Bugs: Lost Exe after spending 2 hrs
 
-Works: 
+Works: Nothing 
 
-Will Be Published?: 
+Will Be Published?: No
+--------------------
+TrippysExecuter V3
+8:08PM EST 8/20/22
+
+Bug:
+
+Works:
+
+Published?:
