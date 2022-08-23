@@ -3,11 +3,6 @@ repeat
     wait()
 until game:IsLoaded()
 
---Stops script if on a different game
-if game.PlaceId ~= 8737602449 then
-    return
-end
-
 --Anti-AFK
 local Players = game:GetService("Players")
 local connections = getconnections or get_signal_cons
